@@ -8,4 +8,4 @@
 LOGIN as:
 Username:Ssali
 password:1234
-£Enjoy
+
